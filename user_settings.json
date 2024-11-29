@@ -1,0 +1,14 @@
+{
+  "employers": [
+    {"id": 125493, "employer_name": "Авиакомпания Россия"},
+    {"id": 1520649, "employer_name": "Авиакомпания Победа"},
+    {"id": 2941095 ,"employer_name": "Dream Aero"},
+    {"id": 3529 ,"employer_name": "СБЕР"},
+    {"id": 10102623 ,"employer_name": "Гаусс"},
+    {"id": 2748 ,"employer_name": "Ростелеком"},
+    {"id": 4181 ,"employer_name": "Банк ВТБ (ПАО)"},
+    {"id": 1740 ,"employer_name": "Яндекс"},
+    {"id": 2523 ,"employer_name": "М.Видео-Эльдорадо"},
+    {"id": 3388 ,"employer_name": "Газпромбанк"}
+  ]
+}
